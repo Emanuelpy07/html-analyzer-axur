@@ -9,7 +9,7 @@
 ## 📌 Sobre o projeto
 Este programa foi desenvolvido como parte de um desafio técnico para estágio em desenvolvimento de software.
 
-A aplicação recebe uma URL como entrada e retorna o trecho de texto que está no nível mais profundo da estrutura HTML da estrutura HTML da página.
+A aplicação recebe uma URL como entrada e retorna o trecho de texto que está no nível mais profundo da estrutura HTML da página.
 
 Caso o HTML esteja malformado, o programa retorna:
 ```
